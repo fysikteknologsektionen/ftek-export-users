@@ -3,6 +3,7 @@
 Plugin Name: Ftek Export Users
 Description: Adds export button to users page for current group
 Author: Johan Winther (johwin)
+Version: 1.0.1
 Text Domain: ftek_eu
 Domain Path: /languages
 GitHub Plugin URI: Fysikteknologsektionen/ftek-export-users
